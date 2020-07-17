@@ -236,7 +236,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #05844d;
+   background: #53172d;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #ffd900;
+   color: #ebe0a2;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -285,7 +285,7 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 
 .bars {
-	width: 95%;
+	width: 100%;
 	float: left;
 	padding: 0;
 	text-align: left;
@@ -297,13 +297,13 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: black;
+  	background: rgb(0, 0, 0);
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: black;
+   color: rgb(0, 251, 255);
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -317,7 +317,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: white;
+  	background: #04ddf5;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
