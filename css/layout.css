@@ -236,13 +236,13 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #53172d;
+   background: #fff700;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #ffffff; }
+#resume a, #resume a:visited  { color: #021e32; }
 #resume a:hover, #resume a:focus { color: #ffffff; }
 
 #resume h1 {
@@ -251,7 +251,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid aqua;
+   border-bottom: 3px solid rgb(0, 0, 0);
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #ebe0a2;
+   color: #6c3a04;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -297,13 +297,13 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: rgb(0, 0, 0);
+  	background: rgb(255, 255, 255);
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: rgb(0, 251, 255);
+   color: rgb(11, 21, 54);
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -317,7 +317,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #04ddf5;
+  	background: #061d45;
    display: inline-block;
   	height: 42px;
    line-height: 42px;

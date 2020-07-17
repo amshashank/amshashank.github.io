@@ -119,7 +119,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #ffffff;
+	color: #08184a;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -130,7 +130,7 @@ body {
 --------------------------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-   color: #ffffff;
+   color: #011d4c;
 	font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
 }
