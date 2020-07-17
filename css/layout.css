@@ -325,17 +325,17 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .A1 {
-  	width: 60%;
+  	width: 100%;
   	-moz-animation: A1 2s ease;
   	-webkit-animation: A1 2s ease;
 }
 .A2 {
-  	width: 55%;
+  	width: 65%;
   	-moz-animation: A2 2s ease;
   	-webkit-animation: A2 2s ease;
 }
 .A3 {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: A3 2s ease;
   	-webkit-animation: A3 2s ease;
 }
@@ -345,27 +345,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: A4 2s ease;
 }
 .A5 {
-  	width: 80%;
+  	width: 45%;
   	-moz-animation: A5 2s ease;
   	-webkit-animation: A5 2s ease;
 }
 .A6 {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: A6 2s ease;
   	-webkit-animation: A6 2s ease;
 }
 .A7 {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: A7 2s ease;
   	-webkit-animation: A7 2s ease;
 }
 .A8 {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: A8 2s ease;
   	-webkit-animation: A8 2s ease;
 }
 .A9 {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: A9 2s ease;
   	-webkit-animation: A9 2s ease;
 }
@@ -375,37 +375,37 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: A10 2s ease;
 }
 .A11 {
-  	width: 50%;
-  	-moz-animation: A11 2s ease;
-  	-webkit-animation: A11 2s ease;
+  	width: 80%;
+  	-moz-animation: A11 1s ease;
+  	-webkit-animation: A11 1s ease;
 }
 .A12 {
-  	width: 50%;
+  	width: 40%;
   	-moz-animation: A12 2s ease;
   	-webkit-animation: A12 2s ease;
 }
 .A13 {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: A13 2s ease;
   	-webkit-animation: A13 2s ease;
 }
 .A14 {
-  	width: 50%;
+  	width: 65%;
   	-moz-animation: A14 2s ease;
   	-webkit-animation: A14 2s ease;
 }
 .A15 {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: A15 2s ease;
   	-webkit-animation: A15 2s ease;
 }
 .A16 {
-  	width: 50%;
+  	width: 85%;
   	-moz-animation: A16 2s ease;
   	-webkit-animation: S16 2s ease;
 }
 .A17 {
-  	width: 50%;
+  	width: 95%;
   	-moz-animation: A17 2s ease;
   	-webkit-animation: A17 2s ease;
 }
